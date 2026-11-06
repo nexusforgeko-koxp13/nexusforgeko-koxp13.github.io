@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nexusforgeko-koxp13.github.io/sitemap.xml
